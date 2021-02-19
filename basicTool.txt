@@ -1,0 +1,53 @@
+edit > preference > keymap > Select : Right , spacebar : search
+Select cube : Rightclick 
+s : scale 
+r : rotate 
+move x-axis : g + x 
+move y-axis : g + y 
+move z-axis : g + z 
+Rotate in x -axis : r + x 
+Rotate in y -axis : r + y 
+Rotate in z -axis : r + z 
+scale in x-axis : s + x 
+scale in y-axis : s + y 
+scale in z-axis : s + z 
+View port on Panel : N [imp]
+Reset Transformation [position]: Alt + g 
+Reset Transformation [scale]: Alt + s
+Reset Transformation [Rotation]: Alt + r 
+keep save the format : ctrl + a > apply all transform
+delete : delete 
+<create a cube > : shift + a > mesh > cube 
+<create a cylinder in 3d origin  > : click +  shift + a > mesh > cylinder 
+< zoom in/out > : ctrl + mouse 
+<Drag > : shift + middle mouse 
+< front view > : 1 
+< Right view > : 3
+< Top view > : 7 
+< Rear view > : ctrl + 1 
+< Left view > : ctrl + 3
+< Bottom  view > : ctrl + 7 
+<zoom a particular object > : click + . 
+< focus on one object > : click + / 
+<Reset the scene> : file > new > General > restore Default 
+< select many > : shift + Rightclick 
+< change color > : [color obj > material...] B + {color }> select them 
+<center > shift + s 
+< copy> : shift + d 
+< change orientation Global > local > : g + x + x (move x axis local )
+< change orientation Global > local > : g + y + y (move y axis local )
+< change orientation Global > local > : g + z + z (move z axis local )
+< snapping > : shift + D copy and take near the edge press ctrl :  g + ctrl 
+< change origin to 3d curser > : object > set origin > origin to 3D curser 
+<3d curser to change origin > : object > set origin > origin center mass (last one)
+<create multiple windows > : (+) from corner to drag 
+<maximize one view > : ctrl + space (same for reverse)
+<join > : ctrl + j 
+
+
+
+
+
+
+
+
