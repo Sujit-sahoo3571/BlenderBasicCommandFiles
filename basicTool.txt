@@ -43,11 +43,3 @@ delete : delete
 <create multiple windows > : (+) from corner to drag 
 <maximize one view > : ctrl + space (same for reverse)
 <join > : ctrl + j 
-
-
-
-
-
-
-
-
